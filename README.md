@@ -10,4 +10,5 @@ $ cd sms
 $ python sms.py
 ```
 
-Thanks to MR.K7C8NG
+Thanks to receh93
+
